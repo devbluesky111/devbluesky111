@@ -8,7 +8,7 @@
 ### :computer: Programming languages:
 
 - Html / Css / BootStrap
-- Javascript / JQuery / ECMAScript / Typescript
+- Javascript / JQuery / Typescript
 - Sql / NoSql
 - PHP
 - Python
