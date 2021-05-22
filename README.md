@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there, I'm Dmitriy Kuryshov  :wink:
 
-<!--
-**devbluesky111/devbluesky111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :heart: I'm passionate about:
 
-Here are some ideas to get you started:
+- React.js / Next.js / Redux / Saga / Apollo GraphQL
+- Express.js / node.js / Laravel / Django
+- Mysql / Postgresql / MongoDB
+- GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :computer: Programming languages:
+
+- Html / Css / BootStrap
+- Javascript / JQuery / ECMAScript / Typescript
+- Sql / NoSql
+- PHP
+- Python
+
+#### :octocat: My GH stats
+
+![Dmitriy's github stats](https://github-readme-stats.vercel.app/api?username=devbluesky111&count_private=true&show_icons=true) 
+
