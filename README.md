@@ -5,7 +5,6 @@
 - React.js / Next.js / Redux / Saga / Apollo GraphQL
 - Express.js / node.js / Laravel / Django
 - Mysql / Postgresql / MongoDB
-- Api
 - GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
 
 #### :computer: Programming languages:
@@ -15,8 +14,4 @@
 - Sql / NoSql
 - PHP
 - Python
-
-#### :octocat: My GH stats
-
-![Dmitriy's github stats](https://github-readme-stats.vercel.app/api?username=devbluesky111&count_private=true&show_icons=true) 
 
