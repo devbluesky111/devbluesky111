@@ -1,10 +1,11 @@
-## Hi there, I'm Dmitriy Kuryshov  :wink:
+## Hi, there. I'm Dmitriy Kuryshov  :wink:
 
 #### :heart: I'm passionate about:
 
 - React.js / Next.js / Redux / Saga / Apollo GraphQL
 - Express.js / node.js / Laravel / Django
 - Mysql / Postgresql / MongoDB
+- Api
 - GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
 
 #### :computer: Programming languages:
