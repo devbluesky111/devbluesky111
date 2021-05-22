@@ -7,6 +7,7 @@
 - Mysql / Postgresql / MongoDB
 - GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
 <div align="right">
+<div>
 #### :computer: Programming languages:
 
 - Html / Css / BootStrap
@@ -14,4 +15,5 @@
 - Sql / NoSql
 - PHP
 - Python
+</div>
 </div>
