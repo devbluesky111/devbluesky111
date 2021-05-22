@@ -1,8 +1,6 @@
-## Hi, there. I'm Dmitriy Kuryshov 🤔
-
 ### :heart: I'm passionate about:
 
-🔭 React.js / Next.js / Redux / Saga / Apollo GraphQL
+- React.js / Next.js / Redux / Saga / Apollo GraphQL
 - Express.js / node.js / Laravel / Django
 - Mysql / Postgresql / MongoDB
 - GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
