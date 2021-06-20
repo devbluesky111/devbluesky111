@@ -1,6 +1,7 @@
 ### :heart: I'm passionate about:
 
 - React.js / Redux / Saga / Redux-thunk / Context API / Apollo GraphQL / Next.js
+- Web3.js/ Solidity
 - Express.js / node.js / Laravel / Django
 - Mysql / Postgresql / MongoDB
 - GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
