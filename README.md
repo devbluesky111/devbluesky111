@@ -1,6 +1,6 @@
 ### :heart: I'm passionate about:
 
-- eosio / wax / eosjs / waxjs / Anchor / Scatter / WCW 
+- Eosio / Wax / Eosjs / Waxjs / Anchor / Scatter / WCW 
 - React.js / Next.js / Redux / Context API / Apollo GraphQL / ReactQuery / Web3.js
 - Express.js / node.js / Laravel / Django
 - Mysql / Postgresql / MongoDB
